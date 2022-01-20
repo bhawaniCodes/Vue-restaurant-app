@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "bhanu",
+      "email": "bhanu@123",
+      "password": "123123"
+    },
+    {
+      "id": "7d4b5130-7908-11ec-9d1d-27da27495849",
+      "name": "peter",
+      "email": "peter@g.com",
+      "password": "123123"
+    },
+    {
+      "id": "3aed0b10-790a-11ec-8646-15fa80b7c29a",
+      "name": "nanu",
+      "email": "nanu@g.com",
+      "password": "123123"
+    },
+    {
+      "id": "73215080-7915-11ec-9e8e-13ebe2ba38b9",
+      "name": "manish",
+      "email": "m@g.com",
+      "password": "123123"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 2,
+      "name": "Dominos",
+      "address": "Rajsamand",
+      "contact": 321321
+    },
+    {
+      "id": "b3df1910-79ef-11ec-a062-01356e282fe3",
+      "name": "Burger King",
+      "address": "Jaipur",
+      "contact": "3453455"
+    }
+  ]
+}
